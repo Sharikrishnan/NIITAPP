@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NIIT</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="menus">
+        <item>Schedule</item>
+        <item>Courses</item>
+        <item>Info</item>
+        <item>Online Assessment</item>
+        <item>Downloads</item>
+    </string-array>
+    
+    <string-array name="courses">
+        <item>Course1</item>
+        <item>Course2</item>
+        <item>Course3</item>
+        <item>Course4</item>
+        <item>Course5</item>
+    </string-array>
+
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+    <string name="title_activity_online_assessment">OnlineAssessment</string>
+    <string name="title_activity_login">Login</string>
+    <string name="email">Email id</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">Logout</string>
+    <string name="overview">Overview</string>
+    <string name="button">I don\'t have an account.</string>
+    <string name="button1">Schedule</string>
+    <string name="button2">Courses</string>
+    <string name="button3">Info</string>
+    <string name="button4">Online Assessment</string>
+    <string name="button5">Downloads</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+    <string name="register">Register</string>
+    <string name="title_activity_map">Map</string>
+    <string name="title_section1">Chennai</string>
+    <string name="title_section2">Madurai</string>
+    <string name="title_section3">Coimbature</string>
+    <string name="title_activity_maap1">Maap1</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
